@@ -12,5 +12,5 @@ This is a simple multi-page HTML website about spirits and ghost encounters.
 
 
 ```
-[https://your-username.github.io/ghosts-website/](https://s0p0jym.github.io/Spirits/index.html)
+https://s0p0jym.github.io/Spirits/index.html
 ```
